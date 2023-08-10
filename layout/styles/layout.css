@@ -329,10 +329,10 @@ input:focus, textarea:focus, *:required:focus{border-color:#41C379;}
 .row1, .row1 a{}
 .row2{color:#474747; background-color:#F4F4F4;}
 .row3{color:#474747; background-color:#FFFFFF;}
-.row4{color:#C1C2C4; background-color:#323639;}
+.row4{color:#C1C2C4; background: radial-gradient(#ffafbd,#ffc3a0,#ffafbd,#D7D7D7);;}
 .row5, .row5 a{color:#C1C2C4; background-color:#2A2D34;}
 
-.coloured{color:#FFFFFF; background:linear-gradient(90deg, #41C379, #37AE6A);}
+/*.coloured{color:#FFFFFF; background:linear-gradient(90deg, #41C379, #37AE6A);}*/
 
 
 /* Header */
